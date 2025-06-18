@@ -7,9 +7,9 @@ I use a a lightweight suite of tools and experiments designed to prototype and e
 - Multi-agent cooperation
 - Prompt engineering
 
-## 🧠 Key Concepts
+## Key Concepts
 
-This repo serves as a sandbox for exploring:
+This repo serves for exploring:
 
 - Instruction vs Classification fine-tuning
 - In-Context Learning & Chain of Thought prompting
