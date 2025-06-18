@@ -2,18 +2,10 @@
 I use a a lightweight suite of tools and experiments designed to prototype and evaluate generative AI systems using open-source LLMs. This repo explores applied natural language processing techniques with a focus on:
 
 - Instruction tuning
-- Retrieval-augmented generation (RAG)
+- RAG
 - Fine-tuning workflows (LoRA, QLoRA, DeepSpeed)
-- Multi-agent orchestration
-- Prompt engineering for downstream tasks (chatbots, classification, generation)
-
-## 🔍 What's Inside
-
-- `notebooks/`: Hands-on experiments with LLM inference, tokenization, and RAG pipelines.
-- `prompt-engineering/`: Chains and splitter examples for zero-shot and few-shot tasks.
-- `finetune/`: Starter configs for LoRA and DeepSpeed fine-tuning strategies.
-- `multi-agent/`: Orchestration patterns for collaborative agents and task routing.
-- `rag/`: Retrieval pipelines using open-source embedding models and vector DBs.
+- Multi-agent cooperation
+- Prompt engineering
 
 ## 🧠 Key Concepts
 
