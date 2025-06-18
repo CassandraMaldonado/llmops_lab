@@ -17,32 +17,18 @@ This repo serves for exploring:
 - Open-source vs proprietary LLM trade-offs
 - Integration of LLMs with traditional ML and enterprise APIs
 
-## 💡 Why This Matters
+## Why This Matters
 
-LLMs are evolving rapidly. This repo helps practitioners and developers:
+LLMs are evolving rapidly. This repo helps:
 
 - Prototype and deploy lean NLP systems
 - Understand trade-offs in architecture and cost
 - Evaluate open vs closed model capabilities
 - Build grounded solutions for real-world scenarios
 
-## 🛠️ Tools & Frameworks
+## Tools & Frameworks
 
 - PyTorch, Hugging Face Transformers
 - LangChain, FAISS, Chroma
 - Google Colab, DeepSpeed, PEFT, LoRA
 
-## 📂 Example Use Cases
-
-- Building agentic chatbots for customer service
-- Automating classification tasks with few-shot prompts
-- Connecting LLMs with structured databases
-- Designing scalable fine-tuning pipelines
-
-## 📬 Contact
-
-For ideas, contributions, or collaboration, feel free to open an issue or connect via [LinkedIn](https://www.linkedin.com/).
-
----
-
-> ⚠️ This is an independent research and prototyping repository. It is not affiliated with any institution and does not reflect any course or curriculum.
