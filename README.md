@@ -3,7 +3,7 @@ I use a a lightweight suite of tools and experiments designed to prototype and e
 
 - Instruction tuning
 - RAG
-- Fine-tuning workflows (LoRA, QLoRA, DeepSpeed)
+- Fine-tuning workflows
 - Multi-agent cooperation
 - Prompt engineering
 
