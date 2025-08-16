@@ -31,4 +31,3 @@ LLMs are evolving rapidly. This repo helps:
 - PyTorch, Hugging Face Transformers
 - LangChain, FAISS, Chroma
 - Google Colab, DeepSpeed, PEFT, LoRA
-
